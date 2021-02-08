@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "onWindowChange",
+  "editor.tabSize": 2,
+  "breadcrumbs.filePath": "off",
+  "breadcrumbs.enabled": false
+}
